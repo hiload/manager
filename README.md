@@ -2,7 +2,7 @@ manager
 =======
 
 The web manager
-
+framwork:symfony
 list:
 1,用户管理.
 普能会员
